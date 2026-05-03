@@ -1,4 +1,11 @@
 /*!
+ * Vue.js v2.7.16
+ * (c) 2014-2023 Evan You
+ * Released under the MIT License.
+ */
+
+
+/*!
   * vue-scrollto v2.20.0
   * (c) 2019 Randjelovic Igor
   * @license MIT
@@ -23,49 +30,8 @@
  */
 
 
-/*! Hammer.JS - v2.0.17-rc - 2019-12-16
-  	 * http://naver.github.io/egjs
-  	 *
-  	 * Forked By Naver egjs
-  	 * Copyright (c) hammerjs
-  	 * Licensed under the MIT license */
-
-/*! Hammer.JS - v2.0.17-rc - 2019-12-16
-   * http://naver.github.io/egjs
-   *
-   * Forked By Naver egjs
-   * Copyright (c) hammerjs
-   * Licensed under the MIT license */
-
 /**
- * vis-data
- * http://visjs.org/
- *
- * Manage unstructured data using DataSet. Add, update, and remove data, and listen for changes in the data.
- *
- * @version 8.0.3
- * @date    2025-09-10T16:22:00.613Z
- *
- * @copyright (c) 2011-2017 Almende B.V, http://almende.com
- * @copyright (c) 2017-2019 visjs contributors, https://github.com/visjs
- *
  * @license
- * vis.js is dual licensed under both
- *
- *   1. The Apache 2.0 License
- *      http://www.apache.org/licenses/LICENSE-2.0
- *
- *   and
- *
- *   2. The MIT License
- *      http://opensource.org/licenses/MIT
- *
- * vis.js may be distributed under either license.
- */
-
-
-/*!
- * Vue.js v2.7.16
- * (c) 2014-2023 Evan You
- * Released under the MIT License.
+ * Copyright 2010-2026 Three.js Authors
+ * SPDX-License-Identifier: MIT
  */
